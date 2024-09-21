@@ -1,1 +1,1 @@
-<h1>Guy that programs sometimes.</h1>
+<h1>Guy that writes code.</h1>
